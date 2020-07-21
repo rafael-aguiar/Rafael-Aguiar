@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello, World! 👋
 
-<!--
-**Rafael-Aguiar/Rafael-Aguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Rafael, tenho 21 anos, e sou um entusiasta em deselvolvimento front end.
+Atualmente busco estágio ou oportunidades como desenvolvedor júnior!
 
-Here are some ideas to get you started:
+### Formação :mortar_board:
+Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP (Universidade Paulista).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Meus estudos :books:
+
+Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, atualmente estudo pela Origamid, também consumo os counteúdos gratuitos da Rocketseat.
+
+### Técnologias 
+
+:small_blue_diamond: HTML</br>
+:small_blue_diamond: CSS </br>
+:small_blue_diamond: SASS </br>
+:small_blue_diamond: JAVASCRIPT </br>
+No momento estou estudando para ter total compreensão do JavaScript, após isso pretendo aprender e dominar o React.js!  
+
