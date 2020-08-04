@@ -14,8 +14,8 @@ Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, 
 
 ### Técnologias 
 
-:small_blue_diamond: Html</br>
+:small_blue_diamond: HTML</br>
 :small_blue_diamond: CSS Grid Layout e Flexbox </br>
 :small_blue_diamond: SASS </br>
-:small_blue_diamond: JavaScript </br>
+:small_blue_diamond: JAVASCRIPT </br>
 :small_blue_diamond: No momento estou estudando ReactJS e sua interação com TypeScript!   
