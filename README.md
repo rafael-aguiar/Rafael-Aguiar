@@ -2,7 +2,7 @@
 
 Me chamo Rafael, tenho 21 anos, e sou um entusiasta em deselvolvimento front end. </br>
 Atualmente busco estágio ou oportunidades como desenvolvedor júnior! </br>
-Se não estiver codando, provavelmente você vai me encontrar jogando CS:GO ou assistindo algo(No momento estou vendo vikings hehe). 
+Alem de codar, curto muito jogar CS:GO e assistir seriados! (No momento estou vendo Vikings hehe)
 
 ### Formação :mortar_board:
 Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP (Universidade Paulista).
@@ -18,4 +18,4 @@ Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, 
 :small_blue_diamond: CSS Grid Layout e Flexbox </br>
 :small_blue_diamond: SASS </br>
 :small_blue_diamond: JavaScript </br>
-:small_blue_diamond :No momento estou estudando ReactJS e sua interação com TypeScript!   
+:small_blue_diamond: No momento estou estudando ReactJS e sua interação com TypeScript!   
