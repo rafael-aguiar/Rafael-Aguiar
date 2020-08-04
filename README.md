@@ -20,6 +20,6 @@ Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, 
 :small_blue_diamond: JAVASCRIPT </br>
 :small_blue_diamond: No momento estou estudando ReactJS e sua interação com TypeScript!   
 
-### Contato 
-:envelope: Além do LinkedIn, você pode entrar em contato comigo pelo email: 
+### Contato :envelope:
+Além do LinkedIn, você pode entrar em contato comigo pelo email: 
 rafael.nascimento.aguiar@outlook.com
