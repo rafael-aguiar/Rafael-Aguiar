@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-Me chamo Rafael, tenho 21 anos, e sou um entusiasta em deselvolvimento front end. </br>
+Me chamo Rafael, tenho 21 anos, e sou um entusiasta em desenvolvimento front end. </br>
 Atualmente busco estágio ou oportunidades como desenvolvedor júnior! </br>
 Alem de codar, curto muito futebol e jogar CS:GO.
 
