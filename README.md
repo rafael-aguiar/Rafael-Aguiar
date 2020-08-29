@@ -12,7 +12,7 @@ Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pel
 
 Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, atualmente estudo pela Origamid, também consumo os counteúdos gratuitos da Rocketseat.
 
-### Técnologias 
+### Tecnologias 
 
 :small_blue_diamond: HTML</br>
 :small_blue_diamond: CSS Grid Layout e Flexbox </br>
