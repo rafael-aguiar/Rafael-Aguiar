@@ -10,7 +10,7 @@ Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pel
 
 ### Meus estudos :books:
 
-Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, atualmente estudo pela Origamid, também consumo os counteúdos gratuitos da Rocketseat.
+Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, atualmente estudo pela Origamid, faço o bootcamp fullstack oferecido pela Everis e também consumo os counteúdos gratuitos da Rocketseat.
 
 ### Tecnologias 
 
@@ -18,7 +18,6 @@ Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, 
 :small_blue_diamond: CSS Grid Layout e Flexbox </br>
 :small_blue_diamond: SASS </br>
 :small_blue_diamond: JAVASCRIPT </br>
-:small_blue_diamond: No momento estou estudando sobre WordPress e ReactJS!   
 
 ### Contato :envelope:
 Além do LinkedIn, você pode entrar em contato comigo pelo email: 
