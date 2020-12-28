@@ -1,25 +1,30 @@
-### Hello, World! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Me chamo Rafael, tenho 21 anos, e sou um entusiasta em desenvolvimento front end. </br>
-Atualmente busco estágio ou oportunidades como desenvolvedor júnior! </br>
-
-### Formação :mortar_board:
-Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP (Universidade Paulista).
+<p align="left"> <strong>👋 Hello, World! </strong>
 
 
-### Meus estudos :books:
-
-Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, atualmente estudo pela Origamid, consumo os counteúdos gratuitos da Rocketseat e curso o bootcamp React Web Developer oferecido pela Digital Innovation one, com foco em React e Redux.
-
-### Tecnologias 
-
-:small_blue_diamond: HTML</br>
-:small_blue_diamond: CSS Grid Layout e Flexbox </br>
-:small_blue_diamond: SASS </br>
-:small_blue_diamond: JavaScript </br>
-:small_blue_diamond: React (estudando)
 
 
-### Contato :envelope:
-Além do LinkedIn, você pode entrar em contato comigo pelo email: 
-rafael.nascimento.aguiar@outlook.com
+<p align="left"> Me chamo Rafael, tenho 21 anos, e sou um entusiasta em desenvolvimento Front end. </br>
+Atualmente busco oportunidades como desenvolvedor júnior! </br> </p>
+
+<p align="left"> <strong>🎓 Formação 
+
+Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP (Universidade Paulista). 
+</p>
+
+<p align="left"> <strong>📚 Meus estudos </strong>
+
+Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, atualmente estudo React pela Origamid e curso o bootcamp React Web Developer oferecido pela Digital Innovation one, com foco em React e Redux.
+</p>
+
+<p align="left">
+  💻 skills: <strong>HTML, CSS, SASS, JavaScript, React</strong>
+</p>
+
+<p align="left">
+    🔨 tools: <strong>npm, gulp, babel, webpack, git </strong>
+</p>
+
+<p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.nascimento.aguiar@outlook.com </p>
+
