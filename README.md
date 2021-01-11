@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> Me chamo Rafael, tenho 21 anos, e sou um entusiasta em desenvolvimento Front end. </br>
+<p align="left"> Me chamo Rafael, tenho 21 anos, e sou um entusiasta em desenvolvimento Front-end. </br>
 Atualmente busco oportunidades como desenvolvedor júnior! </br> </p>
 
 <p align="left"> <strong>🎓 Formação 
@@ -15,7 +15,7 @@ Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pel
 
 <p align="left"> <strong>📚 Meus estudos </strong>
 
-Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, atualmente estudo React pela Origamid e curso o bootcamp React Web Developer oferecido pela Digital Innovation one, com foco em React e Redux.
+Além da faculdade, diariamente busco aprofundar meu conhecimento em desenvolvimento web, atualmente estudo React pela Origamid e curso o bootcamp React Web Developer oferecido pela Digital Innovation One, com foco em React e Redux.
 </p>
 
 <p align="left">
