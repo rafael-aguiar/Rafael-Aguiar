@@ -23,7 +23,7 @@ Além da faculdade, diariamente busco aprofundar meu conhecimento em front end, 
 </p>
 
 <p align="left">
-    🔨 tools: <strong>npm, gulp, babel, webpack, git </strong>
+    🔨 tools: <strong>Npm, Gulp, Babel, Webpack, Git</strong>
 </p>
 
 <p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.nascimento.aguiar@outlook.com </p>
