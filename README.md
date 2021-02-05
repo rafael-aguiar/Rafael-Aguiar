@@ -5,8 +5,7 @@
 
 
 
-<p align="left"> Me chamo Rafael, tenho 21 anos, e sou um entusiasta em desenvolvimento Front-end. </br>
-Atualmente busco oportunidades como desenvolvedor júnior! </br> </p>
+<p align="left"> Me chamo Rafael, tenho 21 anos, e sou um entusiasta em desenvolvimento Front-end.</p>
 
 <p align="left"> <strong>🎓 Formação 
 
