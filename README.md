@@ -18,7 +18,7 @@ Além da faculdade, diariamente busco aprofundar meu conhecimento em desenvolvim
 </p>
 
 <p align="left">
-  💻 skills: <strong>HTML, CSS, SASS, Styled Components, JavaScript e React</strong>
+  💻 skills: <strong>HTML, CSS, SASS, Styled Components, Javascript e React</strong>
 </p>
 
 <p align="left">
