@@ -18,11 +18,11 @@ Além da faculdade, diariamente busco aprofundar meu conhecimento em desenvolvim
 </p>
 
 <p align="left">
-  💻 skills: <strong>HTML, CSS, SASS, Styled Components, Javascript e React</strong>
+  💻 Skills: <strong>HTML, CSS, SASS, Styled Components, Javascript e React</strong>
 </p>
 
 <p align="left">
-    🔨 tools: <strong>Npm, Gulp, Babel, Webpack, Git</strong>
+    🔨 Tools: <strong>Npm, Gulp, Babel, Webpack, Git</strong>
 </p>
 
 <p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.nascimento.aguiar@outlook.com </p>
