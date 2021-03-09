@@ -14,11 +14,11 @@ Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pel
 
 <p align="left"> <strong>📚 Meus estudos </strong>
 
-Além da faculdade, diariamente busco aprofundar meu conhecimento em desenvolvimento web, atualmente estudo React pela Origamid e curso o bootcamp React Web Developer oferecido pela Digital Innovation One, com foco em React e Redux.
+Além da faculdade, diariamente busco aprofundar meu conhecimento em desenvolvimento web, atualmente estou estudando sobre  Angular e Typescript.
 </p>
 
 <p align="left">
-  💻 skills: <strong>HTML, CSS, SASS, JavaScript, React</strong>
+  💻 skills: <strong>HTML, CSS, SASS, Styled Components, JavaScript e React</strong>
 </p>
 
 <p align="left">
