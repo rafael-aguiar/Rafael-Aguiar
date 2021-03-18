@@ -14,7 +14,7 @@ Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pel
 
 <p align="left"> <strong>📚 Meus estudos </strong>
 
-Além da faculdade, diariamente busco aprofundar meu conhecimento em desenvolvimento web, atualmente estou estudando sobre  Angular e Typescript.
+Além da faculdade, diariamente busco aprofundar meu conhecimento em desenvolvimento web, atualmente estou estudando sobre  React, Node, Angular e Typescript.
 </p>
 
 <p align="left">
