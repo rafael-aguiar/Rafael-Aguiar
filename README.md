@@ -7,15 +7,15 @@
 
 <p align="left"> <strong>🎓 Formação 
 
-Estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP (Universidade Paulista). 
+Estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP (Universidade Paulista). 
 </p>
 
 <p align="left"> <strong>📚 Meus estudos </strong>
 
-Além da faculdade, atualmente estou estudando sobre React, Node, Angular e Typescript.
+Além da faculdade, atualmente estou estudando sobre React, Node e Angular.
 </p>
 
-<p>Bora codar 🚀 </p>
-
 <p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.nascimento.aguiar@outlook.com </p>
+
+<p>🚀 Bora codar  </p>
 
