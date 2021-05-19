@@ -3,19 +3,19 @@
 <p align="left"> <strong>👋 Hello, World! </strong>
 
 
-<p align="left"> Me chamo Rafael, tenho 21 anos, e sou apaixonado por desenvolvimento Front-end.</p>
+<p align="left"> Me chamo Rafael, tenho 22 anos, e sou apaixonado por desenvolvimento Front-end.</p>
 
-<p align="left"> <strong>🎓 Formação 
+<p align="left"> <strong>🎓 Formação </strong>
 
 Estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas pela UNIP (Universidade Paulista). 
 </p>
 
 <p align="left"> <strong>📚 Meus estudos </strong>
 
-Além da faculdade, atualmente estou estudando sobre React, Node e Angular.
+Atualmente estou estudando sobre desenvolvimento Android e sobre a biblioteca React e seu ecossistema.
 </p>
 
-<p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.nascimento.aguiar@outlook.com </p>
+<p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.aguiar.dev@gmail.com
 
-<p>🚀 Bora codar  </p>
+<p>🚀 Bora codar �</p>
 
