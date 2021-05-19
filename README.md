@@ -17,5 +17,5 @@ Atualmente estou estudando sobre desenvolvimento Android e sobre a biblioteca Re
 
 <p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.aguiar.dev@gmail.com
 
-<p>🚀 Bora codar �</p>
+<p>🚀 Bora codar </p>
 
