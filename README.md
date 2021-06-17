@@ -12,7 +12,7 @@ Estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas pe
 
 <p align="left"> <strong>📚 Meus estudos </strong>
 
-Atualmente estou estudando sobre desenvolvimento Android e sobre a biblioteca React e seu ecossistema.
+Atualmente foco meus estudos na Stack Typescript - React - Node.
 </p>
 
 <p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.aguiar.dev@gmail.com
