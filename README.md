@@ -15,7 +15,7 @@ Estou no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas pe
 Atualmente foco meus estudos na Stack Typescript - React - Node.
 </p>
 
-<p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo e-mail: rafael.aguiar.dev@gmail.com
+<p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo email: rafael.aguiar.dev@gmail.com
 
 <p>🚀 Bora codar </p>
 
