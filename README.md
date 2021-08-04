@@ -4,10 +4,9 @@
 
 
 <p align="left"> 
-  Me chamo Rafael, tenho 22 anos, e sou um desenvolvedor Front-end apaixonado por criar soluções robustas e escaláveis.
+  Me chamo Rafael, tenho 22 anos, e sou um apaixonado Front-end.
   
   Atualmente focado em Angular.
-
   
 </p>
 
