@@ -17,5 +17,5 @@ Estou no quarto semestre do curso de Análise e Desenvolvimento de Sistemas pela
 
 <p align="left"> ✉️ Além do LinkedIn, você pode entrar em contato comigo pelo email: rafael.aguiar.dev@gmail.com
 
-<p>🚀 Bora codar </p>
+<p> <b> 🚀 Bora codar 🚀 </b> </p>
 
