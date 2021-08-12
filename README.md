@@ -2,10 +2,10 @@
 <p> My name is Rafael and I'm a Front-end Software Engineer.  </p>
   
  
-<a href="https://www.linkedin.com/in/rafael-n-aguiar/">
+<a href="https://www.linkedin.com/in/rafael-n-aguiar/" target="_blank">
   <img align="left" alt="Rafael's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://medium.com/@rafael.aguiar.dev">
+<a href="https://medium.com/@rafael.aguiar.dev" target="_blank">
   <img align="left" alt="Rafael's Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
