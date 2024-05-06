@@ -15,7 +15,7 @@ I'm a developer focused on delivering high-quality front-end solutions, and I'm 
 
 - 🎓 I have recently completed my Technologist Degree in System Analysis and Development.
 
-- 👨🏻‍💻 In my current role, I am responsible for ensuring the security of web application data and working towards enhancing our cloud infrastructure at the largest financial institution in Brazil.
+- 👨🏻‍💻In my current role, I am actively involved in developing a cloud ecosystem on AWS and managing incident resolution in a legacy environment at the largest financial institution in Brazil.
 
 - 📚 I'm a huge enthusiast of Typescript and the React library. I have extensive experience with Angular, and I am currently enhancing my skills in cloud technologies, particularly AWS.
 
